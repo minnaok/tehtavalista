@@ -28,35 +28,5 @@
     "id": 5,
     "title": "lattioiden pesu",
     "completed": false
-  },
-  {
-    "userId": 1,
-    "id": 6,
-    "title": "koiran ulkoilutus",
-    "completed": false
-  },
-  {
-    "userId": 1,
-    "id": 7,
-    "title": "vessan pesu",
-    "completed": false
-  },
-  {
-    "userId": 1,
-    "id": 8,
-    "title": "suihkun pesu",
-    "completed": true
-  },
-  {
-    "userId": 1,
-    "id": 9,
-    "title": "pyykkien kuivumaan laittaminen",
-    "completed": false
-  },
-  {
-    "userId": 1,
-    "id": 10,
-    "title": "mattojen tamppaus",
-    "completed": true
   }
   ]
