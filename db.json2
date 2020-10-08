@@ -1,0 +1,11 @@
+           {"id": 1,
+            "email": "michael.kahn@reqres.in",
+            "first_name": "Michael",
+            "last_name": "Kahn",
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/follettkyle/128.jpg"
+            }
+            {"id": 2,
+            "email": "steve.morris@reqres.in",
+            "first_name": "Steve",
+            "last_name": "Morris",
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/follettkyle/128.jpg"
