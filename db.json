@@ -1,9 +1,9 @@
 {
 "users":[ 
-  {"userId": 1, "id": 1, "e-mail": "michael.moore@amazon.com", "first_name": "Michael", "sure_name": "Moore"},
-  {"userId": 1, "id": 2, "e-mail": "steve.mars@amazon.com", "first_name": "Steve", "sure_name": "Mars"},
-  {"userId": 1, "id": 3, "e-mail": "michelle.man@amazon.com", "first_name": "Michelle", "sure_name": "Man"},
-  {"userId": 1, "id": 4, "e-mail": "john.gone@amazon.com", "first_name": "John", "sure_name": "Gone"},
-  {"userId": 1, "id": 5, "e-mail": "liza.minelli@amazon.com", "first_name": "Liza", "sure_name": "Minelli"}
+  {"userId": 1, "id": 1, "e-mail": "michael.moore@amazon.com", "name": "Michael", "sure_name": "Moore"},
+  {"userId": 1, "id": 2, "e-mail": "steve.mars@amazon.com", "name": "Steve", "sure_name": "Mars"},
+  {"userId": 1, "id": 3, "e-mail": "michelle.man@amazon.com", "name": "Michelle", "sure_name": "Man"},
+  {"userId": 1, "id": 4, "e-mail": "john.gone@amazon.com", "name": "John", "sure_name": "Gone"},
+  {"userId": 1, "id": 5, "e-mail": "liza.minelli@amazon.com", "name": "Liza", "sure_name": "Minelli"}
   ]
 }
