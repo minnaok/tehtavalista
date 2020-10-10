@@ -1,4 +1,4 @@
- {"users:"}[
+ ["users:"
   {"id": 1, "id": 1, "e-mail": "michael.moore@amazon.com", "name": "Michael", "sure_name": "Moore"},
   {"id": 1, "id": 2, "e-mail": "steve.mars@amazon.com", "name": "Steve", "sure_name": "Mars"},
   {"id": 1, "id": 3, "e-mail": "michelle.man@amazon.com", "name": "Michelle", "sure_name": "Man"},
